@@ -1,0 +1,3 @@
+AutoLoot.Stop()
+
+AutoLoot.Start()
